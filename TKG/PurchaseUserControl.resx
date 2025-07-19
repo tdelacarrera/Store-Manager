@@ -117,28 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btn_export.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        vwAADr8BOAVTJAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANJSURBVEhLvZZb
-        SNNRHMf3nA9maV5waZuXOZ2XEAp6kBSfekhKAwMTu+Nt6sbmZaZZYBKkKEUoWelM0wRNewjqJbPyEkYa
-        qKGJzggvc7qZuyTfOGf95/Zv6pzRD77snN/O//c5l9+5cOCE6fQ6tmtb47AdbFOpVXg+1I2yzptIqE7E
-        QQkfey67Ir+tiN10S7MBDatG0NCrRG6zFDG34uCR7QMvMRdcCQ8BMgEEBWEIU0TSsuSp3PrTbY1zveMG
-        QosisD/TEz65fvCTBiBALkBIoQgiRRTCiw9TkTJTJyBZawE71pbG4cuCKcg66HYKlAuQrZTAuAbMqzVb
-        am5RA/WyFpydADZAIchWSh0CMeKwgzgiApI2m6fOtAb81JmwsLQMzfIqrRPptAbqY/QXyHotGJH18s7h
-        0mQgdWFhOI7fjkdGqxhpykuofFVDR9c/MYSUhjSkNl5A4/sWG5gNiABI+nLzDllgJPiRsmO096dqzpgz
-        rygSoSUREJaHg1cWhKQHyYAJeDbYAd8Sf/iV8pHXLod+dd0+yCuHSwOOzo7CLeMADegp9oXBYKD+2Ip4
-        OjoydYWtJRspZQQNtqozWly/9GafXZC/NACNvU20YffQC3DOcfDhaz+ti5vy6P/MKJPuJaNloB11PY/w
-        dqwPWq0e3+fnUdtTj9qeh/g09YWumV0QmS4ykt6xdzT4wMQg/e382AWPLG+Iis3TSdoFKYTwvsaFe6EX
-        IiuigXWg6vVduMhc4VbggYS6RJoUdkFEYYoouKa7Y2R6hEKm5qbgcnWvTYIE5QuR/liMH+pFjM9OYkmj
-        g1qjpdk3PvsNY6pJrKysYXFpZXOQsCgcPFkQjEaTZb5PVJ4E2dj/DER6vS/TEzMLKgpIrTtvgUWXHkVw
-        fui/mTo/KR9tfe00cNXLarpeMeWxFphIEUmPq82TYQ61bxxIBia9P08PUwjpub80EGfvp1D/xfordFS7
-        Tm/zhuXZbFgiEpj4yNqQ+uYbttOxDcvA2EcQ42fK7CPozk6PIEfl1KFqr/fbyalrgi8T/J+Lz9Gr3FpO
-        XeXWleGZP4+TJxLElMfBI8v8OCGZSE6G4N08TtgOts3Q51YXyMgTqk9T6K6fW46aMw/I35WDohDKzKry
-        AAAAAElFTkSuQmCC
-</value>
-  </data>
   <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>

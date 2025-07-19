@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PurchaseUserControl));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.number_text_box = new System.Windows.Forms.TextBox();
@@ -170,7 +169,6 @@
             // btn_export
             // 
             this.btn_export.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_export.Image = ((System.Drawing.Image)(resources.GetObject("btn_export.Image")));
             this.btn_export.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_export.Location = new System.Drawing.Point(425, 18);
             this.btn_export.Name = "btn_export";

@@ -75,7 +75,6 @@
             // 
             this.btn_export2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btn_export2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_export2.Image = global::TKG.Properties.Resources.excel;
             this.btn_export2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_export2.Location = new System.Drawing.Point(432, 73);
             this.btn_export2.Name = "btn_export2";
@@ -87,10 +86,10 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btn_export2);
             this.groupBox1.Controls.Add(this.id_text_box);
             this.groupBox1.Controls.Add(this.result_number_label);
             this.groupBox1.Controls.Add(this.purchase_grid);
-            this.groupBox1.Controls.Add(this.btn_export2);
             this.groupBox1.Controls.Add(this.search_text_box);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

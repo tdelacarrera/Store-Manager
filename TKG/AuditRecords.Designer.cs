@@ -109,7 +109,6 @@
             // btn_export
             // 
             this.btn_export.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_export.Image = global::TKG.Properties.Resources.excel;
             this.btn_export.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_export.Location = new System.Drawing.Point(409, 32);
             this.btn_export.Name = "btn_export";
